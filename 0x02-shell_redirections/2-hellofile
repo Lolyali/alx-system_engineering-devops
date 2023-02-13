@@ -1,3 +1,2 @@
 #!/bin/bash
 Display the content of the /etc/passwd file.
-/etc/passwd: No such file or directory
